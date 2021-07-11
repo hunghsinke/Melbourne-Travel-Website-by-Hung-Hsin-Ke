@@ -1,0 +1,38 @@
+body {
+  background-color: powderblue;
+  background-image: url(twelveapostles.jpg);
+  background-size: cover;
+}
+
+h1 {
+	color:#806915;
+	text-align: center;
+	border: 5px solid rgba(255, 176, 170, 0.5);
+}
+nav{text-align: center;}
+h2 {
+	font-family: Florence, cursive;
+	cursor: pointer;
+	text-align: center;
+
+}
+h3{
+	text-align: center;
+}
+
+li{
+	color:#009933;
+}
+table{
+	border-collapse: collapse;
+}
+
+td, th{
+	border: 1px solid #999;
+	padding: 0.5rem;
+	text-align: left;
+}
+
+footer{
+	text-align: center;
+}

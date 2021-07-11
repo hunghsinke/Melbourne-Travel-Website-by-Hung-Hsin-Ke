@@ -1,0 +1,30 @@
+body{
+	background: powderblue;
+}
+h1 {
+	color: blue;
+	text-align: center;
+	text-decoration: underline overline;
+}
+nav{
+	text-align: center;
+}
+h2{
+	font-family: Florence, cursive;
+	line-height: 1.6;
+	text-align: center;
+}
+p.a{
+	text-align: center;
+}
+p.b{
+	text-align: center;
+}
+
+footer{
+	text-align: center;
+}
+
+p.quote{
+	text-align: center;
+}

@@ -1,0 +1,25 @@
+body{
+	background: powderblue;
+}
+h2{
+	font-family: Florence, cursive;
+	color:#9933ff;
+	line-height: 1.6;
+}
+	blockquote{
+		color:#006600;
+					}
+				p.a{
+					font-size: 150%;
+				}
+				p.b{
+					font-size: 25px;
+				}
+				li{
+					line-height: 1.6;
+					margin: 35px;
+				}
+
+footer{
+	text-align: center;
+}
